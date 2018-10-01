@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 01, 2018 at 08:27 PM
+-- Generation Time: Oct 01, 2018 at 08:42 PM
 -- Server version: 10.1.34-MariaDB
 -- PHP Version: 5.6.37
 
@@ -96,11 +96,11 @@ CREATE TABLE `pelanggan` (
 
 INSERT INTO `pelanggan` (`ID_CUST`, `NAMA_CUST`, `ALAMAT`, `EMAIL`) VALUES
 ('000', NULL, NULL, NULL),
-('001', 'Tommy', 'Jl. Dago Barat', 'tommygaool@gmail.com'),
-('002', 'Imam', 'Jl. Sadang Serang', 'imamalromu@gmail.com'),
-('003', 'Yusuf', 'Jl. Sadang Serang', 'yusufnofianto@gmail.com'),
-('004', 'Wildan', 'Jl. Lembang AURI', 'wildanalwi@yahoo.co.id'),
-('005', 'Hilman', 'Jl. Raya Cibiru', 'hilmananshari@gmail.com');
+('001', 'Tommy', 'Jl. Dago Barat', 'apaaa@gmail.com'),
+('002', 'Imam', 'Jl. Sadang Serang', 'apaaa@gmail.com'),
+('003', 'Yusuf', 'Jl. Sadang Serang', 'apaaa@gmail.com'),
+('004', 'Wildan', 'Jl. Lembang AURI', 'apaaa@gmail.com'),
+('005', 'Hilman', 'Jl. Raya Cibiru', 'apaaa@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -350,9 +350,9 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`ID_USER`, `NAMA_USER`, `USERNAME`, `PASSWORD`, `LEVEL`, `NO_HP`) VALUES
-('U001', 'hutomo khairinnas', 'admin', 'admin', 'Admin', '081220848525'),
-('U002', 'bunda nur', 'gudang', 'gudang', 'Gudang', '082172834111'),
-('U003', 'khairinissa', 'penjualan', 'penjualan', 'Penjualan', '085222751051');
+('U001', 'administrator', 'admin', 'admin', 'Admin', '00'),
+('U002', 'bunda', 'gudang', 'gudang', 'Gudang', '00'),
+('U003', 'nisa', 'penjualan', 'penjualan', 'Penjualan', '00');
 
 --
 -- Indexes for dumped tables
