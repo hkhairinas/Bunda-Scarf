@@ -1,4 +1,5 @@
 # Bunda Scarf Inventory Management System and Point of Sale
+<img alt="GitHub" src="https://img.shields.io/github/license/hkhairinas/Bunda-Scarf?color=green">
 
 Merupakan Store yang bergerak pada Penjualan Gorden dll. berisi Sistem Informasi Inventory beserta Point Of Sale yang simple.
 
